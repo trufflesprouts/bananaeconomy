@@ -14,7 +14,7 @@
 			investments.
 		</p>
 	</nav>
-	<TextTrain text="BANANAECONOMY" />
+	<TextTrain text="THEMARKETCANSTAYIRRATIONALLONGERTHANYOUCANSTAYSOLVENT" />
 
 	<ul class="news">
 		<li>
